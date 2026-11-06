@@ -1,0 +1,11 @@
+amount,date,region,product,order_id
+  $928 ,05/04/2026,East,Widget B,M-2001
+  $877 ,05/12/2026,East,Widget A,M-2002
+"  $1,450 ",05/20/2026,South,Widget B,M-2003
+  $927 ,05/15/2026,South,Gadget C,M-2004
+"$1,723",05/27/2026,South,Widget A,M-2005
+  $796 ,05/26/2026,North,Widget B,M-2006
+"  $1,620 ",05/19/2026,West,Gadget D,M-2007
+"  $1,089 ",05/21/2026,South,Widget B,M-2008
+"  $1,299 ",05/24/2026,West,Gadget D,M-2009
+$599,05/12/2026,South,Gadget D,M-2010

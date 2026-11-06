@@ -1,0 +1,11 @@
+Order #,Item Name,Region Name,Order Date,Total (USD)
+J-3001,Widget A,North,2026-06-28,  $749 
+J-3002,Widget B,West,2026-06-20,  $560 
+J-3003,Gadget D,East,2026-06-18,$347
+J-3004,Widget A,East,2026-06-25,"  $1,693 "
+J-3005,Gadget D,South,2026-06-15,$313
+J-3006,Gadget C,South,2026-06-17,$735
+J-3007,Gadget C,South,2026-06-05,"$1,831"
+J-3008,Widget A,East,2026-06-16,  $379 
+J-3009,Gadget C,East,2026-06-08,  $537 
+J-3007,Gadget C,East,2026-06-15,

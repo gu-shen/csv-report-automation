@@ -1,0 +1,3 @@
+Cleanup actions performed:
+- june_data.csv: order 'J-3007' has a missing/invalid amount — kept as blank
+- removed 2 duplicate order(s) by Order ID

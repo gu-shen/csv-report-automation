@@ -1,0 +1,15 @@
+Order ID,Product,Region,Date,Amount
+A-1001,Widget A,North,2026-04-24,  $763 
+A-1002,Widget B,North,2026-04-22,"$1,716"
+A-1003,Widget A,West,2026-04-02,  $261 
+A-1004,Widget B,North,2026-04-18,$607
+A-1005,Gadget D,South,2026-04-15,"  $1,406 "
+A-1006,Widget A,South,2026-04-23,"  $1,065 "
+A-1007,Widget B,South,2026-04-25,  $889 
+A-1008,Gadget D,North,2026-04-12,"  $1,935 "
+A-1009,Gadget C,North,2026-04-24,"  $1,140 "
+A-1010,Gadget D,North,2026-04-18,$800
+A-1011,Gadget C,South,2026-04-23,  $342 
+A-1012,Widget B,East,2026-04-03,"  $1,951 "
+A-1003,Widget A,North,2026-04-05," $1,050 "
+
